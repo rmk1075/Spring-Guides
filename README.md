@@ -11,3 +11,9 @@
 - url: https://spring.io/guides/gs/rest-service/
 
 - rest_service
+
+## Schduling Tasks
+
+- url: https://spring.io/guides/gs/scheduling-tasks/
+
+- scheduling_tasks

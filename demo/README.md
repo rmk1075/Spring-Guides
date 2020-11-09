@@ -1,6 +1,6 @@
 # Spring-Quickstart-Guide
 
-- url: https://spring.io/quickstart
+- url: <https://spring.io/quickstart>
 
 - demo
 

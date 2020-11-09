@@ -1,6 +1,6 @@
 # RESTful Web Service
 
-- url: https://spring.io/guides/gs/rest-service/
+- url: <https://spring.io/guides/gs/rest-service/>
 
 - rest_service
 

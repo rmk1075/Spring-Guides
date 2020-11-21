@@ -23,3 +23,9 @@
 - url: <https://spring.io/guides/gs/consuming-rest/>
 
 - cons_rest_web_service
+
+## Accessing Relational Data using JDBC with Spring
+
+- url: <https://spring.io/guides/gs/relational-data-access/>
+
+- relationaldataaccess

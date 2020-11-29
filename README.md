@@ -29,3 +29,9 @@
 - url: <https://spring.io/guides/gs/relational-data-access/>
 
 - relationaldataaccess
+
+## Uploading Files
+
+- url: <https://spring.io/guides/gs/uploading-files/>
+
+- uploading_files

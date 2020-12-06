@@ -35,3 +35,9 @@
 - url: <https://spring.io/guides/gs/uploading-files/>
 
 - uploading_files
+
+## Authenticating a User with LDAP
+
+- url: <https://spring.io/guides/gs/authenticating-ldap/>
+
+- authenticating_ldap

@@ -41,3 +41,9 @@
 - url: <https://spring.io/guides/gs/authenticating-ldap/>
 
 - authenticating_ldap
+
+## Messaging with Redis
+
+- url: <https://spring.io/guides/gs/messaging-redis/>
+
+- messaging_redis

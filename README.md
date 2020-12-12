@@ -47,3 +47,9 @@
 - url: <https://spring.io/guides/gs/messaging-redis/>
 
 - messaging_redis
+
+## Messaging with RabbitMQ
+
+- url: <https://spring.io/guides/gs/messaging-rabbitmq/>
+
+- messaging_rabbitmq

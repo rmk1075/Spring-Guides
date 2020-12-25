@@ -59,3 +59,9 @@
 - url: <https://spring.io/guides/gs/actuator-service/>
 
 - restful_springboot_actuator
+
+## Creating a Batch Service
+
+- url: <https://spring.io/guides/gs/batch-processing/>
+
+- batch_service

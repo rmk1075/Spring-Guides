@@ -71,3 +71,9 @@
 - url: <https://spring.io/guides/gs/securing-web/>
 
 - securing_web_application
+
+## Building a Hypermedia-Driven RESTful Web Service
+
+- url: <https://spring.io/guides/gs/rest-hateoas/>
+
+- hypermedia_restful

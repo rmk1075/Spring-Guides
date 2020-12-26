@@ -13,6 +13,7 @@ public class GreetingController {
 
     /**
      * @GetMapping("/greeting"): HTTP GET /greeting 요청에 응답한다.
+     * 
      * @RequestParam(): value의 조건으로 입력된 값을 bind한다.
      * 
      * @param name

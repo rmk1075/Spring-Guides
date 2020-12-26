@@ -65,3 +65,9 @@
 - url: <https://spring.io/guides/gs/batch-processing/>
 
 - batch_service
+
+## Securing a Web Application
+
+- url: <https://spring.io/guides/gs/securing-web/>
+
+- securing_web_application

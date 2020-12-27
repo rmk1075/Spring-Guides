@@ -83,3 +83,9 @@
 - url: <https://spring.io/guides/gs/integration/>
 
 - integrating_data
+
+## Managing Transactions
+
+- url: <https://spring.io/guides/gs/managing-transactions/>
+
+- managing_transaction

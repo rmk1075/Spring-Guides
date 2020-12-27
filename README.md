@@ -77,3 +77,9 @@
 - url: <https://spring.io/guides/gs/rest-hateoas/>
 
 - hypermedia_restful
+
+## Integrating Data
+
+- url: <https://spring.io/guides/gs/integration/>
+
+- integrating_data

@@ -89,3 +89,9 @@
 - url: <https://spring.io/guides/gs/managing-transactions/>
 
 - managing_transaction
+
+## Accessing Data with JPA
+
+- url: <https://spring.io/guides/gs/accessing-data-jpa/>
+
+- accessing_data_jpa

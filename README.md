@@ -95,3 +95,9 @@
 - url: <https://spring.io/guides/gs/accessing-data-jpa/>
 
 - accessing_data_jpa
+
+## Serving Web Content with Spring MVC
+
+- url: <https://spring.io/guides/gs/serving-web-content/>
+
+- serving_web_content_spring_mvc

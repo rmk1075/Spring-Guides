@@ -101,3 +101,9 @@
 - url: <https://spring.io/guides/gs/serving-web-content/>
 
 - serving_web_content_spring_mvc
+
+## Creating Asynchronous Methods
+
+- url: <https://spring.io/guides/gs/async-method/>
+
+- aynchronous_method

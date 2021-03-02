@@ -107,3 +107,9 @@
 - url: <https://spring.io/guides/gs/async-method/>
 
 - aynchronous_method
+
+## Handling Form Submission
+
+- url: <https://spring.io/guides/gs/handling-form-submission/>
+
+- handling_form_submission
